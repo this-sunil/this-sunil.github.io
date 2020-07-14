@@ -1,0 +1,16 @@
+body{
+	margin-top: 70px;
+}
+.fbox{
+	text-align: center;
+}
+.fbox span{
+	font-size: 60px;
+}
+.jumbotron{
+	text-align: center;
+
+}
+.footer{
+	text-align: center;
+}
