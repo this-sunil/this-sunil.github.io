@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<title>&lt;CodeKaar /&gt;</title>
+ <link rel="icon" href="asset/img/favicon.png" type="image/gif"> 
+ <link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="font-awesome/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="animate.css">
+<link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.css">
+<script type="text/javascript" src="jquery-3.2.1.js"></script>
+<script type="text/javascript" src="scripts.js"></script>
+</head>
+<body>
+
+	<div class="row">
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" aria-expanded="true" id="mymenu">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#" style="color: #190d0d;">&lt;CodeKaar /&gt;</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="my-bs">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active-black"><a href="CodeKaar.php"><i class="fa fa-home"></i> Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="about.php"><i class="fa fa-info-circle"></i> About</a></li>
+      
+            <li><a href=""><i class="fa fa-cog"></i> Services</a></li>
+            <li><a href="#contact"><i class="fa fa-phone"></i> Contact</a></li>
+            <li><a href=""><i class="fab fa-blogger"></i> Blogs</a></li>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+</div>
+<br><br><br>
+<section id="about" style="overflow:hidden;">
+  
+    <div class="col-md-offset-4 col-md-4">
+      <div class="text-center">
+        <h2>&lt;CodeKaar /&gt;</h2>
+       
+        <span>The Code Artist's</span>
+        <p class="text-justify">
+          <span><a class="text-primary" style="text-decoration: none;cursor: pointer;">CodeKaar</a> is a team of experienced software developer's,web designers,Mobile app Developer's <a class="text-primary" style="text-decoration: none;cursor: pointer;">CodeKaar</a> provides best class software solutions using latest programming approach to make a help in providing solution to your business</span>
+        </p>
+      </div>
+      <h4 class="text-center text-info">&lt;CodeKaar /&gt; Success Mantra's</h4>
+    <div class="text-justify">
+      
+       <div class="cards">
+        <div class="panel panel-default">
+          <div class="panel-img inner">
+                  <img src="asset/img/plan.jpg">
+          </div>
+          <div class="panel-body">
+            <div class="">
+              <input type="checkbox" name="" id="input">
+    <div class="toggles"><i class="fa fa-plus"></i></div>
+        <br>
+              <h4 class="panel-title text-center">Project Planning</h4><br>
+              <h6 class="text-center">We Plan</h6>
+              <div class="details"><br>
+      <h4 class="text-center">Project Planning</h4><br>
+     
+      <span class="text-justify">Project planning is one of essential step in software development in this process we collect in depth information about your end product which insure successful delivery.</span>
+    </div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+<br>
+  <div class="cards">
+        <div class="panel panel-default">
+          <div class="panel-img inner">
+                  <img src="asset/img/design.jpg">
+          </div>
+          <div class="panel-body">
+            <div class="">
+              <input type="checkbox" name="" id="input">
+    <div class="toggles"><i class="fa fa-plus"></i></div>
+           <br>
+              <h4 class="panel-title text-center">Designing</h4><br>
+              <h6 class="text-center">We Design</h6>
+              <div class="details"><br>
+      <h4 class="text-center">Designing</h4><br>
+      <span class="text-justify">Designing is the phase of application development where your system's look and feel and its flow is fixed this step also include database designing and making sure about stability and security application.</span>
+    </div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+<br>
+   <div class="cards">
+        <div class="panel panel-default">
+          <div class="panel-img inner">
+            <img src="asset/img/code.jpg">
+          </div>
+          <div class="panel-body">
+            <div class="">
+              <input type="checkbox" name="" id="input">
+    <div class="toggles"><i class="fa fa-plus"></i></div>
+          <br>
+              <h4 class="panel-title text-center">Coding</h4><br>
+              <h6 class="text-center">We Code</h6>
+              <div class="details"><br>
+      <h4 class="text-center">Coding</h4><br>
+      <span class="text-justify">Coding is actual implementation of application in this phase all above resources gathered are made to action.</span>
+    </div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+<br>
+  <div class="cards">
+        <div class="panel panel-default">
+          <div class="panel-img inner">
+            <img src="asset/img/testing.jpg">
+          </div>
+          <div class="panel-body">
+            <div class="">
+              <input type="checkbox" name="" id="input">
+    <div class="toggles"><i class="fa fa-plus"></i></div>
+              <br>
+              <h4 class="panel-title text-center">Testing</h4><br>
+              <h6 class="text-center">We Test</h6>
+              <div class="details"><br>
+      <h4 class="text-center">Testing</h4><br>
+      <span class="text-justify">In testing phase we test whole application to ensure bug and error free product delivery.</span>
+    </div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div>
+<br>
+    <div class="cards">
+        <div class="panel panel-default">
+          <div class="panel-img inner">
+            <img src="asset/img/deploy.jpg">
+          </div>
+          <div class="panel-body">
+            <div class="">
+              <input type="checkbox" name="" id="input">
+    <div class="toggles"><i class="fa fa-plus"></i></div>
+             <br>
+              <h4 class="panel-title text-center">Deployment</h4><br>
+              <h6 class="text-center">We Deploy</h6>
+              <div class="details">
+                <br>
+      <h4 class="text-center">Deployment</h4>
+      <span class="text-justify">In testing phase we test whole application to ensure bug and error free product delivery.</span>
+    </div>
+
+            </div>
+            
+          </div>
+        </div>
+      </div><br><br>
+    </div>
+       </div>
+     </section>
+      <footer class="navbar navbar-default col-sm-12" style="color: #000;margin-bottom: 0px;">
+  <div class="container-fluid">
+    <div class="row">
+         <div class="col-sm-6 text-center">
+        <h2>&lt;CodeKaar /&gt;</h2>
+       
+        <span>The Code Artist's</span>
+        <p class="text-justify">
+          <span><a class="text-primary" style="text-decoration: none;cursor: pointer;">CodeKaar</a> is a team of experienced software developer's,web designers,Mobile app Developer's <a class="text-primary" style="text-decoration: none;cursor: pointer;">CodeKaar</a> provides best class software solutions using latest programming approach to make a help in providing solution to your business</span>
+        </p>
+      </div>
+      <div class="col-sm-6">
+         <div><br></div>
+       <form class="form">
+         <div class="input-group">
+         
+          <input type="email" name="user" class="form-control" placeholder="Enter your email address" required="">
+         <a class="btn btn-primary input-group-addon">Subscribe Now</a>
+        </div>
+       </form>
+       <br>
+       <div class="row">
+         <div class="col-sm-6">
+           <h4>&nbsp;&nbsp;&nbsp;Our Links</h4>
+       <ul>
+         <li><a href="#home">Home</a></li>
+         <li><a href="#about">Who We Are</a></li>
+         <li><a href="">What We do</a></li>
+         <li><a href="">Get In Touch</a></li>
+         <li><a href="">Blogs</a></li>
+       </ul>
+        </div>
+       
+        <div class="col-sm-6">
+       
+         
+        <h4>&nbsp;&nbsp;&nbsp;Privacy Policy</h4>
+       <ul>
+         <li><a href="">Home</a></li>
+         <li><a href="">Who We Are</a></li>
+         <li><a href="">contacts</a></li>
+         <li><a href="">about</a></li>
+       </ul>
+      </div>
+
+       </div>
+      
+     </div>
+
+      <div class="text-center col-sm-12">
+
+         <ul class="share">
+        <li title="facebook" data-toggle="tooltip" data-placement="top"><a href="https://www.facebook.com/surya.shinde.35574"><i class="fab fa-facebook"></i></a></li>
+        <li title="twitter" data-toggle="tooltip" data-placement="top"><a href="https://github.com/surya88i/Resume"><i class="fab fa-github"></i></a></li>
+        <li title="instagram" data-toggle="tooltip" data-placement="top"><a href="https://www.instagram.com/shedge1860/"><i class="fab fa-instagram"></i></a></li>
+        <li title="whatsapp" data-toggle="tooltip" data-placement="top"><a href="https://www.linkedin.com/in/sunil-shedge-5733771a1/"><i class="fab fa-whatsapp"></i></a></li>
+      </ul>
+      </div>
+  
+      <center><h5>  &lt;CodeKaar /&gt; © 2020</h5></center>
+      </div>
+
+      </div>
+  <div>
+    
+  </div>
+<div class="shares">
+  <div class="toggle">
+    <i class="fa fa-plus"></i>
+  </div>
+  <ul>
+    <li><a href="" class="fa fa-phone-square"></a></li>
+    <li><a href="" class="fab fa-whatsapp"></a></li>
+    <li><a href="" class="fa fa-envelope"></a></li>
+    <li><a href="" class="fa fa-file-alt"></a></li>
+   
+  
+  </ul>
+</div>
+    
+    
+  
+</footer>
+</section> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+</body>
+</html>
