@@ -284,10 +284,10 @@
       .toggle
     {
       position: absolute;
-      top:50%;
-      left:50%;
+      top:0;
+      left:0;
       width: 100%;
-      transform:translate(-50%,-50%);
+      line-height:50px;
       height: 100%;
       text-align: center;
       border-radius:100%;
