@@ -16,7 +16,36 @@
 <link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.css">
 <script type="text/javascript" src="jquery-3.2.1.js"></script>
 <script type="text/javascript" src="scripts.js"></script>
-
+<style type="text/css">
+  .navbar-default .navbar-toggle.active:hover,.navbar-default .navbar-toggle.active:focus
+  {
+    padding: 16px 12px;
+    border: none;
+    border-radius: 50%;
+    background: white;
+  }
+  
+  .navbar-toggle.active span:nth-child(1)
+  {
+    transform: rotate(45deg);
+    position: absolute;
+    top: 45%;
+    transition: .5s;
+  }
+  .navbar-toggle.active span:nth-child(3)
+  {
+    transition: .5s;
+    opacity: 0;
+    
+  }
+  .navbar-toggle.active span:nth-child(2)
+  {
+    transform: rotate(-45deg);
+    position: absolute;
+    bottom: 50%;
+    transition: .5s;
+  }
+</style>
 </head>
 <body oncontextmenu="return true;">
 
