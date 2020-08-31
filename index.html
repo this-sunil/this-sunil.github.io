@@ -16,6 +16,7 @@
 <link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.css">
 <script type="text/javascript" src="jquery-3.2.1.js"></script>
 <script type="text/javascript" src="scripts.js"></script>
+
 <style type="text/css">
   .navbar-default .navbar-toggle.active:hover,.navbar-default .navbar-toggle.active:focus
   {
@@ -498,6 +499,13 @@
   $(document).ready(function() {
     $("[data-toggle='tooltip']").tooltip();
   })
+</script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.navbar-toggle').click(function(){
+      $(this).toggleClass('active');
+    });
+  });
 </script>
 </body>
 </html>
